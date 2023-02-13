@@ -1,2 +1,2 @@
 # Image-classification-using-Pytorch-with-simple-CNN
-It is a simple image classification model build up using PyTorch, It is a fully featured framework for building deep learning models, which is a type of machine learning that's commonly used in applications like image recognition and language processing.
+It is a simple image classification model build up using PyTorch, which is a fully featured framework for building deep learning models, and it is a type of machine learning that's commonly used in applications like image recognition and language processing. Medicinal plants were used in this illustration. There are two separate folders for training and testing. The training folder contains 80% of both classes and the rest 20% is used for testing.
