@@ -1,1 +1,1 @@
-# -Image-classification-using-Pytorch-with-simple-CNN
+# Image-classification-using-Pytorch-with-simple-CNN
